@@ -1,2 +1,2 @@
-let d = 1;
+let dg = 10;
 let c = 3;
